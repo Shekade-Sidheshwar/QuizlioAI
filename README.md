@@ -1,5 +1,5 @@
 # QuizlioAI
-This Quizlio ChatAI are use to give the user Questions answer in the used the Gemini API Key 
+This QuizlioAI are use to give the user Questions answer in the used the Gemini API Key 
 
 This is a Python chatbot GUI built using Tkinter and Google Generative AI (`google.generativeai`).
 
