@@ -15,7 +15,7 @@ class ChatApplication:
         self.new_chat_session()
 
     def initialize_model(self):
-        genai.configure(api_key="AIzaSyBQ7z269t9Lqs1RFCpGOVSLBnwXhqSEWy8")
+        genai.configure(api_key="Add Your API Key")
         self.model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
 
     def setup_gui(self):
