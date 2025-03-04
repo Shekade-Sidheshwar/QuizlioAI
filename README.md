@@ -12,5 +12,6 @@ Make sure you have Python installed. [Download Python](https://www.python.org/do
 Run the following command:
 ```bash
 pip install google-generativeai
-
+```
 Add your API api_key
+
